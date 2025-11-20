@@ -1,4 +1,4 @@
-In the library product, the hmr failed to run.
+In the library product, the hmr failed to run. [issue #12094](https://github.com/web-infra-dev/rspack/issues/12094)
 
 ## Steps to Reproduce
 
