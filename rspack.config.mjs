@@ -39,6 +39,7 @@ const config = {
   devtool: false,
   optimization: {
     minimize: false,
+    runtimeChunk: "single", 
   },
 
   resolve: {

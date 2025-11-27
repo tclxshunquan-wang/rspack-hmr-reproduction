@@ -14,9 +14,12 @@
     "react-github-corner": "^2.5.0",
     "react-refresh": "^0.18.0"
   },
+  "resolutions": {
+    "@rspack/core": "npm:@rspack-canary/core@latest"
+  },
   "devDependencies": {
     "@rspack/cli": "^1.6.1",
-    "@rspack/core": "^1.6.1",
+    "@rspack/core": "latest",
     "@rspack/plugin-react-refresh": "^1.5.2",
     "@swc/helpers": "0.5.17",
     "@tailwindcss/postcss": "^4.1.16",
